@@ -2,3 +2,5 @@ git status
 git add .
 git commit m " "
 git restore --staged names.txt
+git log
+git reset dd998380daa1a8cdbc6c190181cc91414a39c36a
